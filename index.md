@@ -60,7 +60,7 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 
 <strong>The University of Arkansas' participation in the Carpentries is sponsored by the <a href= "https://libraries.uark.edu">University of Arkansas Libraries</a></strong>
 
-<h2>Register Now!</h2>
+<h2>Register Now!</h2>  <img src=DART.png>
 <p>Please register separately for each workshop in the series. </p>
 <div class="row">
 <div class="col-md-8">
